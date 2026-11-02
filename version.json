@@ -1,0 +1,7 @@
+{
+  "version": 34,
+  "url": "https://raw.githubusercontent.com/quangnv1097/glorizzle/main/APP_DUNG_code_v34.zip",
+  "sha256": "b3b8030487beb97db78c43935cc6471b94211e0ff2b20273eb725013b52d5297",
+  "notes": "v34: tích Có/Không theo danh sách thành phần; sửa số dòng quy tắc từ khóa; bỏ dòng chuỗi thành phần đầy đủ khi đọc BTP",
+  "min_launcher": 2
+}
