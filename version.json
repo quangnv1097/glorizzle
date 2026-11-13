@@ -1,7 +1,0 @@
-{
-  "version": 35,
-  "url": "https://raw.githubusercontent.com/quangnv1097/glorizzle/main/APP_DUNG_code_v35.zip",
-  "sha256": "f74abeef44f46313fb8f2438b855f65008b43180ce8f6a2a68b8ef8b9d606b3a",
-  "notes": "v35: nút 'Dựng ngay' trong cửa sổ Tạo file BTP - nạp thẳng sang cửa sổ Dựng, không cần lưu file BTP",
-  "min_launcher": 2
-}
